@@ -24,14 +24,14 @@ pyautogui.PAUSE = 0
 DIRECTORIO_PROYECTO = os.path.dirname(os.path.abspath(__file__))
 
 # Archivos 3D
-ARCHIVO_1 = os.path.join(DIRECTORIO_PROYECTO, "Holoprosencefalia alobar.mix")
+ARCHIVO_1 = os.path.join(DIRECTORIO_PROYECTO, "Meningo hidroencefalocele.mix")
 ARCHIVO_2 = os.path.join(DIRECTORIO_PROYECTO, "Craneorraquisquisis.mix")
-ARCHIVO_3 = os.path.join(DIRECTORIO_PROYECTO, "Meningo hidroencefalocele.mix")
+ARCHIVO_3 = os.path.join(DIRECTORIO_PROYECTO, "Holoprosencefalia alobar.mix")
 
 # Imágenes correspondientes
-IMG_1 = os.path.join(DIRECTORIO_PROYECTO, "feto3.png")
+IMG_1 = os.path.join(DIRECTORIO_PROYECTO, "feto1.png")
 IMG_2 = os.path.join(DIRECTORIO_PROYECTO, "feto2.png")
-IMG_3 = os.path.join(DIRECTORIO_PROYECTO, "feto1.png")
+IMG_3 = os.path.join(DIRECTORIO_PROYECTO, "feto3.png")
 
 # ==============================================================================
 # 1. AUTOSTART
